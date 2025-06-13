@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/erii-01/mw-gh-npm-demo#readme"
   "publishConfig": {
-    "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+    "@erii-01:registry": "https://npm.pkg.github.com"
   }
 }

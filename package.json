@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/erii-01/mw-gh-npm-demo/issues"
   },
-  "homepage": "https://github.com/erii-01/mw-gh-npm-demo#readme"
+  "homepage": "https://github.com/erii-01/mw-gh-npm-demo#readme",
   "publishConfig": {
     "@erii-01:registry": "https://npm.pkg.github.com"
   }
